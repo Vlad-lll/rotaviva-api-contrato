@@ -2,7 +2,7 @@
 
 Documentação do contrato da API REST da plataforma **RotaViva**, desenvolvida para a **Vértice Logística Integrada Ltda.** (empresa fictícia criada para o PIM VII do curso de Análise e Desenvolvimento de Sistemas da UNIP).
 
-Este repositório não contém o código do backend. Ele reúne apenas o que o time de front-end (aplicativo Flutter) precisa para começar a integração: rotas, formatos de requisição e resposta, regras de autenticação e exemplos de JSON.
+Este repositório não contém o código do backend. Ele reúne apenas o front-end (aplicativo Flutter) precisa para começar a integração: rotas, formatos de requisição e resposta, regras de autenticação e exemplos de JSON.
 
 > **Status do contrato:** rascunho acadêmico. Os formatos abaixo podem sofrer ajustes durante o desenvolvimento. Qualquer mudança deve ser combinada entre backend e front-end e registrada neste arquivo.
 
